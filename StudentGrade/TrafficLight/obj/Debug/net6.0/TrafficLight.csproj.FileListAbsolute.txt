@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\bin\Debug\net6.0\TrafficLight.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\bin\Debug\net6.0\TrafficLight.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\bin\Debug\net6.0\TrafficLight.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\bin\Debug\net6.0\TrafficLight.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\bin\Debug\net6.0\TrafficLight.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\obj\Debug\net6.0\TrafficLight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\obj\Debug\net6.0\TrafficLight.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\obj\Debug\net6.0\TrafficLight.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\obj\Debug\net6.0\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\obj\Debug\net6.0\TrafficLight.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\obj\Debug\net6.0\refint\TrafficLight.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\obj\Debug\net6.0\TrafficLight.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\obj\Debug\net6.0\TrafficLight.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\TrafficLight\obj\Debug\net6.0\ref\TrafficLight.dll

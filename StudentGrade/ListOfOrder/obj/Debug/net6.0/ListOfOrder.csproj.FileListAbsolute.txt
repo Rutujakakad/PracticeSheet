@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\bin\Debug\net6.0\ListOfOrder.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\bin\Debug\net6.0\ListOfOrder.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\bin\Debug\net6.0\ListOfOrder.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\bin\Debug\net6.0\ListOfOrder.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\bin\Debug\net6.0\ListOfOrder.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\obj\Debug\net6.0\ListOfOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\obj\Debug\net6.0\ListOfOrder.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\obj\Debug\net6.0\ListOfOrder.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\obj\Debug\net6.0\ListOfOrder.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\obj\Debug\net6.0\ListOfOrder.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\obj\Debug\net6.0\refint\ListOfOrder.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\obj\Debug\net6.0\ListOfOrder.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\obj\Debug\net6.0\ListOfOrder.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\ListOfOrder\obj\Debug\net6.0\ref\ListOfOrder.dll

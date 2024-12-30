@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\bin\Debug\net6.0\CustomerRecords.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\bin\Debug\net6.0\CustomerRecords.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\bin\Debug\net6.0\CustomerRecords.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\bin\Debug\net6.0\CustomerRecords.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\bin\Debug\net6.0\CustomerRecords.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\obj\Debug\net6.0\CustomerRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\obj\Debug\net6.0\CustomerRecords.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\obj\Debug\net6.0\CustomerRecords.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\obj\Debug\net6.0\CustomerRecords.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\obj\Debug\net6.0\CustomerRecords.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\obj\Debug\net6.0\refint\CustomerRecords.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\obj\Debug\net6.0\CustomerRecords.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\obj\Debug\net6.0\CustomerRecords.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\CustomerRecords\obj\Debug\net6.0\ref\CustomerRecords.dll

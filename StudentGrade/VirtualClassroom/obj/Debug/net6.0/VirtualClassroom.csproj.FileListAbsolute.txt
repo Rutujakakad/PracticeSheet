@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\bin\Debug\net6.0\VirtualClassroom.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\bin\Debug\net6.0\VirtualClassroom.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\bin\Debug\net6.0\VirtualClassroom.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\bin\Debug\net6.0\VirtualClassroom.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\bin\Debug\net6.0\VirtualClassroom.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\obj\Debug\net6.0\VirtualClassroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\obj\Debug\net6.0\VirtualClassroom.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\obj\Debug\net6.0\VirtualClassroom.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\obj\Debug\net6.0\VirtualClassroom.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\obj\Debug\net6.0\VirtualClassroom.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\obj\Debug\net6.0\refint\VirtualClassroom.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\obj\Debug\net6.0\VirtualClassroom.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\obj\Debug\net6.0\VirtualClassroom.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\VirtualClassroom\obj\Debug\net6.0\ref\VirtualClassroom.dll

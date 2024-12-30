@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\bin\Debug\net6.0\LoginSystem.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\bin\Debug\net6.0\LoginSystem.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\bin\Debug\net6.0\LoginSystem.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\bin\Debug\net6.0\LoginSystem.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\bin\Debug\net6.0\LoginSystem.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\obj\Debug\net6.0\LoginSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\obj\Debug\net6.0\LoginSystem.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\obj\Debug\net6.0\LoginSystem.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\obj\Debug\net6.0\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\obj\Debug\net6.0\LoginSystem.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\obj\Debug\net6.0\refint\LoginSystem.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\obj\Debug\net6.0\LoginSystem.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\obj\Debug\net6.0\LoginSystem.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LoginSystem\obj\Debug\net6.0\ref\LoginSystem.dll

@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\bin\Debug\net6.0\LibraryReservationSystem.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\bin\Debug\net6.0\LibraryReservationSystem.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\bin\Debug\net6.0\LibraryReservationSystem.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\bin\Debug\net6.0\LibraryReservationSystem.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\bin\Debug\net6.0\LibraryReservationSystem.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\obj\Debug\net6.0\LibraryReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\obj\Debug\net6.0\LibraryReservationSystem.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\obj\Debug\net6.0\LibraryReservationSystem.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\obj\Debug\net6.0\LibraryReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\obj\Debug\net6.0\LibraryReservationSystem.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\obj\Debug\net6.0\refint\LibraryReservationSystem.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\obj\Debug\net6.0\LibraryReservationSystem.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\obj\Debug\net6.0\LibraryReservationSystem.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\LibraryReservationSystem\obj\Debug\net6.0\ref\LibraryReservationSystem.dll

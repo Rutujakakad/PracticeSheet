@@ -1,0 +1,14 @@
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\bin\Debug\net6.0\AirQuality.exe
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\bin\Debug\net6.0\AirQuality.deps.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\bin\Debug\net6.0\AirQuality.runtimeconfig.json
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\bin\Debug\net6.0\AirQuality.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\bin\Debug\net6.0\AirQuality.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\obj\Debug\net6.0\AirQuality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\obj\Debug\net6.0\AirQuality.AssemblyInfoInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\obj\Debug\net6.0\AirQuality.AssemblyInfo.cs
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\obj\Debug\net6.0\AirQuality.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\obj\Debug\net6.0\AirQuality.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\obj\Debug\net6.0\refint\AirQuality.dll
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\obj\Debug\net6.0\AirQuality.pdb
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\obj\Debug\net6.0\AirQuality.genruntimeconfig.cache
+C:\Users\GAURAV KAKAD\OneDrive\Desktop\SheetProblems\StudentGrade\AirQuality\obj\Debug\net6.0\ref\AirQuality.dll
